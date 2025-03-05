@@ -1,2 +1,2 @@
 # KN_Bot
-Streaming assistent Bot
+A Kricom Network Project
