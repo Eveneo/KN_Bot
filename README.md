@@ -9,6 +9,9 @@ A Kricom Network Project
   * Subscriber renew
   * Subscriber gifted
   * Follower
+* Text to Speech
+* OBS scene switch
+* Change stream title and category
 
 ## Commands
 * !info
