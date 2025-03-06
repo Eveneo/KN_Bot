@@ -12,6 +12,9 @@ A Kricom Network Project
 * Text to Speech
 * OBS scene switch
 * Change stream title and category
+* Retrieve share prices
+* Play Youtube music
+* Cyclical and Event based chat message posts
 
 ## Commands
 * !info
